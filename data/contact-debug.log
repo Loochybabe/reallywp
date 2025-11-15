@@ -1,0 +1,1 @@
+{"ts":"2025-11-14T18:38:26.723Z","method":"POST","headers":{"host":"localhost:3000","user-agent":"curl/8.13.0","accept":"*/*","content-type":"application/json","content-length":"75","x-forwarded-host":"localhost:3000","x-forwarded-port":"3000","x-forwarded-proto":"http","x-forwarded-for":"::1"},"body":{"name":"Test User","email":"test@example.com","message":"Hello from test"}}

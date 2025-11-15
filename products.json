@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "alias": "PROD_SOLID_SECURITY",
+    "name": "Solid Security",
+    "category": "Security Plugins",
+    "description": "Firewall, malware scanning, and real-time protection for WordPress sites.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1833398/9639",
+    "image": "/images/product-1.svg"
+  },
+  {
+    "id": 2,
+    "alias": "PROD_SOLID_BACKUP",
+    "name": "Solid Backup",
+    "category": "Security & Backup",
+    "description": "Automated cloud backups with restore options and incremental backups.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1833399/9639",
+    "image": "/images/product-2.svg"
+  },
+  {
+    "id": 3,
+    "alias": "PROD_SOLID_CENTRAL",
+    "name": "Solid Central",
+    "category": "Utilities",
+    "description": "Centralised site management for updates, backups and security on multiple sites.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1833400/9639",
+    "image": "/images/product-3.svg"
+  },
+  {
+    "id": 4,
+    "alias": "PROD_RESTRICT_CONTENT_PRO",
+    "name": "Restrict Content Pro",
+    "category": "Membership Plugins",
+    "description": "Lightweight membership plugin to restrict content and sell subscriptions.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/974145/9639",
+    "image": "/images/product-4.svg"
+  },
+  {
+    "id": 5,
+    "alias": "PROD_GRAVITY_FORMS",
+    "name": "Gravity Forms",
+    "category": "Forms Plugins",
+    "description": "Advanced form builder with conditional logic and integrations.",
+    "affiliate_link": "https://gravityforms.pxf.io/c/4964100/1187954/7938",
+    "image": "/images/product-5.svg"
+  },
+  {
+    "id": 6,
+    "alias": "PROD_GIVEWP",
+    "name": "GiveWP",
+    "category": "Donations Plugins",
+    "description": "Donation forms, donor management and fundraising tools for nonprofits.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1287837/9639",
+    "image": "/images/product-6.svg"
+  },
+  {
+    "id": 7,
+    "alias": "PROD_EVENTS_CALENDAR",
+    "name": "The Events Calendar",
+    "category": "Events Plugins",
+    "description": "Event creation, ticketing integrations and calendar displays.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1284492/9639",
+    "image": "/images/product-7.svg"
+  },
+  {
+    "id": 8,
+    "alias": "PROD_ICONIC",
+    "name": "Iconic",
+    "category": "WooCommerce Addons",
+    "description": "Premium WooCommerce extensions for payments, registrations and more.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1287869/9639",
+    "image": "/images/product-8.svg"
+  },
+  {
+    "id": 9,
+    "alias": "PROD_ORDERABLE",
+    "name": "Orderable",
+    "category": "E-commerce Utilities",
+    "description": "Restaurant & ordering system plugin for WordPress.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1287872/9639",
+    "image": "/images/product-9.svg"
+  },
+  {
+    "id": 10,
+    "alias": "PROD_RANKMATH",
+    "name": "Rank Math",
+    "category": "SEO Plugins",
+    "description": "SEO toolkit for WordPress with automated schema, sitemaps and optimisation tips.",
+    "affiliate_link": "https://rankmath.com/?ref=astrihostsa",
+    "image": "/images/product-10.svg"
+  },
+  {
+    "id": 11,
+    "alias": "PROD_KADENCE",
+    "name": "Kadence Theme & Blocks",
+    "category": "Themes",
+    "description": "Fast, lightweight theme with block-based header/footer builder and starter templates.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1287862/9639",
+    "image": "/images/product-11.svg"
+  },
+  {
+    "id": 12,
+    "alias": "PROD_ASTRA",
+    "name": "Astra Theme",
+    "category": "Themes",
+    "description": "Highly customisable multipurpose theme optimised for performance.",
+    "affiliate_link": "https://wpastra.com/?bsf=12342",
+    "image": "/images/product-12.svg"
+  },
+  {
+    "id": 13,
+    "alias": "PROD_GENERATEPRESS",
+    "name": "GeneratePress",
+    "category": "Themes",
+    "description": "Performance-focused theme with modular approach and strong accessibility.",
+    "affiliate_link": "https://generatepress.com/?ref=8544",
+    "image": "/images/product-13.svg"
+  },
+  {
+    "id": 14,
+    "alias": "PROD_SCHEMA_PRO",
+    "name": "Schema Pro",
+    "category": "Schema Plugins",
+    "description": "Adds rich snippets and structured data to boost SERP presence.",
+    "affiliate_link": "https://wpschema.com/?bsf=12342",
+    "image": "/images/product-14.svg"
+  },
+  {
+    "id": 15,
+    "alias": "PROD_SPECTRA",
+    "name": "Spectra",
+    "category": "Block Editor Tools",
+    "description": "A powerful block toolkit for Gutenberg with ready sections and patterns.",
+    "affiliate_link": "https://wpspectra.com/?bsf=12342",
+    "image": "/images/product-15.svg"
+  },
+  {
+    "id": 16,
+    "alias": "PROD_ELEMENTOR",
+    "name": "Elementor",
+    "category": "Page Builders",
+    "description": "Popular drag-and-drop page builder with theme builder support.",
+    "affiliate_link": "https://be.elementor.com/visit/?bta=218777&nci=5383",
+    "image": "/images/product-16.svg"
+  },
+  {
+    "id": 17,
+    "alias": "PROD_DIVI",
+    "name": "Divi Builder",
+    "category": "Page Builders",
+    "description": "Visual builder with global styles, modules and A/B testing (Divi).",
+    "affiliate_link": "https://www.elegantthemes.com/affiliates/idevaffiliate.php?id=77562",
+    "image": "/images/product-17.svg"
+  },
+  {
+    "id": 18,
+    "alias": "PROD_BEAVER_BUILDER",
+    "name": "Beaver Builder",
+    "category": "Page Builders",
+    "description": "Stable page builder with developer-friendly API and templates.",
+    "affiliate_link": "https://www.wpbeaverbuilder.com/fla/59460/",
+    "image": "/images/product-18.svg"
+  },
+  {
+    "id": 19,
+    "alias": "PROD_LEARNDASH",
+    "name": "LearnDash",
+    "category": "LMS Plugins",
+    "description": "Feature-rich LMS for courses, quizzes, and monetisation.",
+    "affiliate_link": "https://stellarwp.pxf.io/c/4964100/1287834/9639",
+    "image": "/images/product-19.svg"
+  },
+  {
+    "id": 20,
+    "alias": "PROD_LEARNPRESS",
+    "name": "LearnPress",
+    "category": "LMS Plugins",
+    "description": "Open-source LMS plugin with add-ons for e-learning sites.",
+    "affiliate_link": "https://thimpress.com/?ref=milou",
+    "image": "/images/product-20.svg"
+  }
+]

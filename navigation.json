@@ -1,0 +1,85 @@
+{
+  "logo": "E:\\1. Reallywp/Logo.webp",
+  "primary": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "Plugins",
+      "url": "/plugins/",
+      "children": [
+        {
+          "title": "SEO Plugins",
+          "url": "/plugins/seo/"
+        },
+        {
+          "title": "Security Plugins",
+          "url": "/plugins/security/"
+        },
+        {
+          "title": "Membership Plugins",
+          "url": "/plugins/membership/"
+        }
+      ]
+    },
+    {
+      "title": "Themes",
+      "url": "/themes/",
+      "children": [
+        {
+          "title": "Multipurpose Themes",
+          "url": "/themes/multipurpose/"
+        },
+        {
+          "title": "Performance Themes",
+          "url": "/themes/performance/"
+        }
+      ]
+    },
+    {
+      "title": "Builders",
+      "url": "/builders/",
+      "children": [
+        {
+          "title": "Page Builders",
+          "url": "/builders/page-builders/"
+        },
+        {
+          "title": "Site Builders",
+          "url": "/builders/site-builders/"
+        }
+      ]
+    },
+    {
+      "title": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "title": "About",
+      "url": "/about/"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact/"
+    }
+  ],
+  "footer": [
+    {
+      "title": "Privacy Policy",
+      "url": "/privacy-policy/"
+    },
+    {
+      "title": "Terms & Conditions",
+      "url": "/terms/"
+    },
+    {
+      "title": "Affiliate Disclosure",
+      "url": "/affiliate-disclosure/"
+    },
+    {
+      "title": "Sitemap",
+      "url": "/sitemap/"
+    }
+  ]
+}

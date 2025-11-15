@@ -1,0 +1,52 @@
+
+> reallywp@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.6
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.10:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.4s
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ○ Compiling /about ...
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled /about in 3.1s (363 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /about 200 in 1059ms
+ GET /contact 200 in 3053ms
+ GET /about 200 in 468ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1470ms (483 modules)
+ GET /Logo.webp 404 in 1962ms
+ ✓ Compiled /api/contact in 353ms (307 modules)
+Contact form submission saved: { id: 1763146267653, email: 'style@test.com' }
+ POST /api/contact 200 in 475ms
+ ○ Compiling /plugins ...
+ ✓ Compiled /plugins in 1336ms (363 modules)
+ ⨯ ./pages/plugins/[slug].js:3:1
+Module not found: Can't resolve '../../../components/CanonicalHead'
+  1 | import Link from 'next/link'
+  2 | import { useRouter } from 'next/router'
+> 3 | import CanonicalHead from '../../../components/CanonicalHead'
+    | ^
+  4 | import ProductCard from '../../../components/ProductCard'
+  5 | import { getProductClusterUrl, getProductsByCluster } from '../../../lib/products'
+  6 |
+
+https://nextjs.org/docs/messages/module-not-found
+ ○ Compiling /plugins/[slug] ...
+ ⨯ ./pages/plugins/[slug].js:3:1
+Module not found: Can't resolve '../../../components/CanonicalHead'
+  1 | import Link from 'next/link'
+  2 | import { useRouter } from 'next/router'
+> 3 | import CanonicalHead from '../../../components/CanonicalHead'
+    | ^
+  4 | import ProductCard from '../../../components/ProductCard'
+  5 | import { getProductClusterUrl, getProductsByCluster } from '../../../lib/products'
+  6 |
+
+https://nextjs.org/docs/messages/module-not-found
+ GET /plugins/seo 500 in 1456ms
+ GET /plugins/seo 500 in 28ms
+^C^CTerminate batch job (Y/N)? 
